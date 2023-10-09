@@ -1,5 +1,5 @@
 ![Build Status](https://github.com/pelargir/auto-session-timeout/actions/workflows/minitest.yml/badge.svg)
-
+ 
 # Auto::Session::Timeout
 
 Provides automatic session timeout in a Rails application. Very easy
